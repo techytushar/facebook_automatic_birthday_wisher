@@ -1,2 +1,2 @@
 # facebook_automatic_birthday_wisher
-This is a python script which takes Email ID and password as input from the user and posts a "Happy Birthday" message on your friend's timeline who have birthday on that day. It uses a python module named "Selenium" and Chrome Webdriver
+This is a python script which takes Email ID and password as input from the user and posts a "Happy Birthday" message on your friend's timeline who have birthday on that day. It uses a python module named "Selenium" and Chrome Webdriver. Make sure you have Selenium and Chrome Webdriver installed and run this file using terminal because getpass may not work on other GUIs. Feel free to contact me for any improvements. 
